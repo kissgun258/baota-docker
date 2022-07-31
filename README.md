@@ -42,6 +42,8 @@
 
 镜像仓库地址：[https://hub.docker.com/r/kissgun/baota](https://hub.docker.com/r/kissgun/baota)
 
+代码仓库地址：[https://github.com/kissgun258/baota-docker](https://github.com/kissgun258/baota-docker)
+
 
 ### 1.通过 docker run 运行
 
