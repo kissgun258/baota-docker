@@ -99,6 +99,11 @@ docker exec -it baota /bin/sh
 | boot（系统启动项）                 | √     | √         | √           |
 | linuxsys（Linux工具箱）            | √     | √          | √          |
 | clear（日志清理工具）              | √     | √         | √            |
+|  ip_configuration（IP配置工具）| √     | √         | √            |
+|  webshell_check（webshell查杀工具）| √     | √         | √            |
+|  webhook（宝塔WebHook）| √     | √         | √            |
+|  backup（宝塔配置备份）| √     | √         | √            |
+|  psync_api（宝塔一键迁移API版本）| √     | √         | √            |
 
 
 （√ 表示已安装，- 表示未安装）
